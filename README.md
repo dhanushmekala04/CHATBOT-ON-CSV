@@ -1,11 +1,46 @@
-Certainly! Below is a structured README for your CSV Chatbot project, with **bold headings** and formatted for easy readability:
-
----
 
 # **CSV Chatbot for Data Exploration**
 
 ## **Overview**
 The **CSV Chatbot** is an interactive conversational AI system that allows users to query and explore data stored in a CSV file using **natural language**. By leveraging advanced language models and various libraries, the chatbot interprets user queries, retrieves relevant information, and provides insights in a conversational manner. This project aims to simplify data interaction, making it accessible for users who may not be familiar with programming or data analysis techniques.
+
+ ---
+## Features
+
+- Natural language querying of CSV data
+- Conversational interface for dynamic interactions
+- Integration with the Mistral-7B model for efficient data retrieval
+- Parameter-Efficient Fine-Tuning (PEFT) for optimized performance
+- Utilizes FAISS for fast semantic search and retrieval
+
+## Prerequisites
+
+- Python 3.x
+- Libraries:
+  - langchain
+  - sentence-transformers
+  - faiss-gpu
+  - transformers
+  - huggingface_hub
+  - accelerate
+  - peft
+  - bitsandbytes
+  - datasets
+
+## Installation
+
+To install the necessary libraries, run the following commands:
+
+---
+pip install -q -U langchain==0.1.2
+pip install -q -U sentence-transformers==2.7.0
+pip install -q -U faiss-gpu==1.7.2
+pip install -q -U transformers==4.40.2
+pip install -q -U huggingface_hub==0.23.0
+pip install accelerate peft bitsandbytes git+https://github.com/huggingface/transformers trl py7zr auto-gptq optimum
+pip install datasets
+
+---
 
 ## **Key Components of the Code**
 
