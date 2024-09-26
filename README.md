@@ -1,5 +1,5 @@
 
-# **CSV Chatbot for Data Exploration**
+# **CSV Chatbot For Information Retrieve**
 
 ## **Overview**
 The **CSV Chatbot** is an interactive conversational AI system that allows users to query and explore data stored in a CSV file using **natural language**. By leveraging advanced language models and various libraries, the chatbot interprets user queries, retrieves relevant information, and provides insights in a conversational manner. This project aims to simplify data interaction, making it accessible for users who may not be familiar with programming or data analysis techniques.
