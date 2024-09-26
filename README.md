@@ -83,29 +83,10 @@ Users can input various questions related to the CSV data, such as:
 - **"Which country has the highest greenhouse gas emissions?"**
 - **"What is the average sales amount for each product?"**
 
-## **Installation**
-To get started with the CSV Chatbot, clone the repository and install the required dependencies:
+## **Results**
+The CSV Chatbot enables interactive querying of CSV data with dynamic responses based on the contents of the CSV file. Users can ask questions in natural language, and the chatbot responds with relevant information extracted from the CSV.
 
-```bash
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
-```
+![CSV Chatbot Interaction Example](./path-to-your-screenshot.png)
 
-## **Usage**
-Run the chatbot by executing the following command:
 
-```bash
-python chatbot.py
-```
-Replace `chatbot.py` with the actual name of your Python file.
 
-## **Contributing**
-Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
-
-## **License**
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
---- 
-
-Let me know if you'd like any further modifications!
