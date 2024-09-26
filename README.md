@@ -1,5 +1,5 @@
 
-# **Conversational CSV for Information Retrieve**
+# **Conversational CSV for Information Retrieve --ChatBOT**
 
 ![CSV Chatbot Interaction Example](https://github.com/dhanushmekala04/Conversational_CSV--ChatBot/blob/main/mistral.png)
 
