@@ -1,7 +1,7 @@
 
 # **CSV Chatbot For Information Retrieve**
 
-(https://github.com/dhanushmekala04/Conversational_CSV--ChatBot/blob/main/mistral.png)
+![CSV Chatbot Interaction Example](https://github.com/dhanushmekala04/Conversational_CSV--ChatBot/blob/main/mistral.png)
 
 
 ## **Overview**
