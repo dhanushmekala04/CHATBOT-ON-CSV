@@ -86,7 +86,7 @@ Users can input various questions related to the CSV data, such as:
 ## **Results**
 The CSV Chatbot enables interactive querying of CSV data with dynamic responses based on the contents of the CSV file. Users can ask questions in natural language, and the chatbot responds with relevant information extracted from the CSV.
 
-![CSV Chatbot Interaction Example](./path-to-your-screenshot.png)
+![CSV Chatbot Interaction Example](https://github.com/dhanushmekala04/CHATBOT-ON-CSV/blob/main/Screenshot%202024-09-26%20043241.png)
 
 
 
